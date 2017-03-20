@@ -9,7 +9,6 @@ tags:
     - TinyPinyin
     - Java
     - Android
-    - pinyin
 ---
 
 汉字转拼音是一个开发中经常使用的功能。其中，[pinyin4j](https://sourceforge.net/projects/pinyin4j/)是应用较广的Java汉字转拼音库。然而，此库有不少的缺点：
