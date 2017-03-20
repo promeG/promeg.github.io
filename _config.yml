@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: gyacong@gmail.com
 description: "Think twice, code once"
 keyword: "PromeG"
-url: "http://blog.promeg.io"              # your host, for absolute URL
+url: "http://promeg.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -59,10 +59,10 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 2cdf1906779ebfbc728a0617d778b682
+ba_track_id: 9bb2d063223e51da01b6e9a3b5f57d92
 # Google Analytics
-ga_track_id: 'UA-94000815-1'            # Format: UA-xxxxxx-xx
-ga_domain: blog.promeg.io
+ga_track_id: 'UA-94000815-2'            # Format: UA-xxxxxx-xx
+ga_domain: promeg.io
 
 
 
