@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "打造最好的Java拼音库-TinyPinyin(1)"
-subtitle:   "单字符转拼音的极致优化"
+title:      "打造最好的Java拼音库TinyPinyin（一）：单字符转拼音的极致优化"
+subtitle:   ""
 date:       2017-03-18 12:52:36 +0800
 author:     "PromeG"
 header-img: "img/home-bg.jpg"
@@ -185,4 +185,4 @@ short decodeIndex(byte[] paddings, byte[] indexes, int offset) {
 
 TinyPinyin的单字符转拼音功能就介绍到这里，从上述过程可以看到，转拼音虽然是一个很简单的功能，但想要做到极致却不容易。经过优化，TinyPinyin的内存占用得到了极大的降低，且单字符转拼音的速度达到了Pinyin4j的四倍。
 
-下篇文章将介绍多音字的快速处理方案。还记得前文的性能测试吗？添加了含有近15000个词的大词典后，能够处理多音字的TinyPinyin的速度，竟比不支持多音字处理的Pinyin4j的速度快的更多（16倍），具体做了哪些优化呢？请移步下篇文章：TinyPinyin之多音字快速处理方案。
+下篇文章将介绍多音字的快速处理方案。还记得前文的性能测试吗？添加了含有近15000个词的大词典后，能够处理多音字的TinyPinyin的速度，竟比不支持多音字处理的Pinyin4j的速度快的更多（16倍），具体做了哪些优化呢？请移步下篇文章：[打造最好的Java拼音库TinyPinyin（二）：多音字快速处理方案](http://promeg.me/2017/03/20/tinypinyin-part-2/)。

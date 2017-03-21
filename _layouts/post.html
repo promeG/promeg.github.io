@@ -47,8 +47,9 @@ layout: default
                 col-md-10 col-md-offset-1
                 post-container">
 
-				{{ content }}
-
+                本文是 PromeG 原创，发表于 <a href="{{site.url}}{{site.baseurl}}">{{site.url}}{{site.baseurl}}</a>，请阅读原文支持原创 <a href="{{site.url}}{{site.baseurl}}{{page.url}}">{{site.url}}{{site.baseurl}}{{page.url}}</a>
+                <hr>
+				            {{ content }}
                 <hr>
 
                 {% if site.duoshuo_share && site.duoshuo_username %}
