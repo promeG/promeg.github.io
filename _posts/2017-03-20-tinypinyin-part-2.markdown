@@ -119,7 +119,3 @@ Pinyin4j_StringToPinyin（Pinyin4j的String转拼音） | thrpt | 200 | 1.033 | 
 ## 3 小结
 
 TinyPinyin的多音字支持就介绍到这里，下篇文章将分享TinyPinyin的API设计。
-
-# 4. API设计探讨
-
-# 4. 单元测试设计
