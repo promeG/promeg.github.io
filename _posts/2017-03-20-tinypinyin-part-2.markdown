@@ -11,7 +11,7 @@ tags:
     - Android
 ---
 
-上篇文章[打造最好的Java拼音库TinyPinyin（一）：单字符转拼音的极致优化](http://promeg.me/2017/03/18/tinypinyin-part-1/)，介绍了单字符转拼音的设计方案，本文将介绍TinyPinyin项目中的多音字处理功能。
+上篇文章[打造最好的Java拼音库TinyPinyin（一）：单字符转拼音的极致优化](http://promeg.io/2017/03/18/tinypinyin-part-1/)，介绍了单字符转拼音的设计方案，本文将介绍TinyPinyin项目中的多音字处理功能。
 
 ## 1. 多音字快速处理方案概览
 
